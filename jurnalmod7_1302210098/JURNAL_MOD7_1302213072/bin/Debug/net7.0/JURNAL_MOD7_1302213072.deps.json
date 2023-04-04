@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "JURNAL_MOD7_1302213072/1.0.0": {
+        "runtime": {
+          "JURNAL_MOD7_1302213072.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JURNAL_MOD7_1302213072/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
