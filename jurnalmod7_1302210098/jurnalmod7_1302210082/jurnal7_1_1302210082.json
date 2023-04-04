@@ -1,0 +1,15 @@
+{
+   "firstName": "Aryasatya",
+   "lastName": "Pratama",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Papua",
+       "city": "Papua Pokonya",
+       "state": "Yaa Papua"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
+   ]
+}
