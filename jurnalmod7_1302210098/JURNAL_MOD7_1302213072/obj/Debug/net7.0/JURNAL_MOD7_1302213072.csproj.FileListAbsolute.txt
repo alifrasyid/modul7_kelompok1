@@ -1,0 +1,15 @@
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\obj\Debug\net7.0\JURNAL_MOD7_1302213072.csproj.AssemblyReference.cache
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\obj\Debug\net7.0\JURNAL_MOD7_1302213072.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\obj\Debug\net7.0\JURNAL_MOD7_1302213072.AssemblyInfoInputs.cache
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\obj\Debug\net7.0\JURNAL_MOD7_1302213072.AssemblyInfo.cs
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\obj\Debug\net7.0\JURNAL_MOD7_1302213072.csproj.CoreCompileInputs.cache
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\bin\Debug\net7.0\JURNAL_MOD7_1302213072.exe
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\bin\Debug\net7.0\JURNAL_MOD7_1302213072.deps.json
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\bin\Debug\net7.0\JURNAL_MOD7_1302213072.runtimeconfig.json
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\bin\Debug\net7.0\JURNAL_MOD7_1302213072.dll
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\bin\Debug\net7.0\JURNAL_MOD7_1302213072.pdb
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\obj\Debug\net7.0\JURNAL_MOD7_1302213072.dll
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\obj\Debug\net7.0\refint\JURNAL_MOD7_1302213072.dll
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\obj\Debug\net7.0\JURNAL_MOD7_1302213072.pdb
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\obj\Debug\net7.0\JURNAL_MOD7_1302213072.genruntimeconfig.cache
+D:\modul7_kelompok1\jurnalmod7_1302210098\JURNAL_MOD7_1302213072\obj\Debug\net7.0\ref\JURNAL_MOD7_1302213072.dll
